@@ -1,0 +1,1 @@
+{'plugins':{'sharing':{'url':'flowplayer.sharing-3.2.15.swf'}},'clip':{'url':'http://stream.flowplayer.org/Extremists.flv','pageUrl':'lingolink.github.io'}}
