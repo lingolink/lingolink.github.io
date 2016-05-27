@@ -1,1 +1,23 @@
-hello world
+<html>
+  <head>
+      <script src="https://lingolink.github.io/jwplayer/jwplayer.js"></script>
+      <script>jwplayer.key="sBJgcO5acS40wLiZ8OUFr2giw5PfEs013tsyEg==";</script>
+    <meta property="og:type" content="movie" />
+    <meta property="og:video:height" content="260" />
+    <meta property="og:video:width" content="420" />
+    <meta property="og:video:type" content="application/x-shockwave-flash" />
+    <meta property="og:title" content="Big Buck Bunny" />
+    <meta property="og:description" content="Big Buck Bunny is a short animated film by the Blender Institute, part of the Blender Foundation." />
+    <meta property="og:image" content="https://assets-jpcust.jwpsrv.com/thumbs/pd1I78Dz-720.jpg" />
+    <meta property="og:video" content="https://lingolink.github.io/jwplayer/jwplayer.flash.swf?file=https://dl.dropboxusercontent.com/s/5dxxojadloprpxy/aaa.mp4&autostart=true" />
+  </head>
+  <body>
+  <div id="myElement"></div>
+  <script type="text/JavaScript">
+      var playerInstance = jwplayer("myElement");
+      playerInstance.setup({
+          file: "https://dl.dropboxusercontent.com/s/5dxxojadloprpxy/aaa.mp4"
+      });
+  </script>
+  </body>
+</html>
