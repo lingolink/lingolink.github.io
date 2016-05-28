@@ -1,1 +1,1 @@
-{'clip':{'url':'http://dl.dropboxusercontent.com/s/9pvvki84sx5y96h/VxkTvAcIEMU.mp4','pageUrl':'lingolink.github.io'}}
+{'clip':{'url':'https://drive.google.com/uc?export=download&id=0B1iyJyrtPA9aUjE4bmR2UHdSLTA&format=video/mp4','pageUrl':'lingolink.github.io'}}
