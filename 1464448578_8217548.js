@@ -1,0 +1,1 @@
+{'clip':{'url':'','pageUrl':'http://lingo.github.io/'}}
