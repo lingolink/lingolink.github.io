@@ -16,3 +16,12 @@
     <meta property="og:video:secure_url" content="https://lingolink.github.io/flowplayer/flowplayer-3.2.18.swf?config=https%3A%2F%2Fdl.dropboxusercontent.com%2Fs%2F32zjrv20u76il80%2FNatureIsSpeakingMotherNature-01.mp4" />
     
 </head>
+<div id="player" style="display:block;width:640px;height:320px;"></div>
+<script>
+  flowplayer("player", "http://lingolink.github.io/flowplayer/flowplayer-3.2.18.swf", {
+      onLoad: function() { // called when player has finished loading
+          this.setVolume(30); // set volume property
+          alert("AAA");
+      }
+  });
+</script>
