@@ -20,9 +20,15 @@
 <div id="player" style="display:block;width:640px;height:320px;"></div>
 <script>
   flowplayer("player", "http://lingolink.github.io/flowplayer/flowplayer-3.2.18.swf", {
+	  clip:{
+		  autoPlay: false,
+          autoBuffering: true,
+		  onStart:function(clip){
+		  	  alert("clip started");
+		  }
+	  }
       onLoad: function() { // called when player has finished loading
           this.setVolume(30); // set volume property
-          alert("AAA");
       }
   });
 </script>
