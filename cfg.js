@@ -1,1 +1,1 @@
-{'clip':{'pageUrl':'lingolink.github.io',autoPlay:false,onStart:function(clip){alert("AA");$f().play("http://stream.flowplayer.org/Extremists.flv");}}}
+{'clip':{'url':'http://dl.dropboxusercontent.com/s/h8xkr0ozfglesey/LhCntVmIJ3A.mp4','pageUrl':'lingolink.github.io','autoPlay':false}}
