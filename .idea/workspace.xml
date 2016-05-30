@@ -24,8 +24,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.8363636">
-              <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="65" selection-end-column="7" />
+            <state vertical-scroll-proportion="-3.2545455">
+              <caret line="16" column="75" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
               <folding />
             </state>
           </provider>
@@ -35,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/config.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="143" selection-start-line="0" selection-start-column="143" selection-end-line="0" selection-end-column="143" />
               <folding />
             </state>
           </provider>
@@ -202,8 +202,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.8363636">
-          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="65" selection-end-column="7" />
+        <state vertical-scroll-proportion="-3.2545455">
+          <caret line="16" column="75" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
           <folding />
         </state>
       </provider>
@@ -211,7 +211,7 @@
     <entry file="file://$PROJECT_DIR$/config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="143" selection-start-line="0" selection-start-column="143" selection-end-line="0" selection-end-column="143" />
           <folding />
         </state>
       </provider>
