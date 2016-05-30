@@ -1,1 +1,0 @@
-{'clip':{'url':'https://drive.google.com/uc?export=download&id=0B1iyJyrtPA9aUjE4bmR2UHdSLTA&format=video/mp4','pageUrl':'lingolink.github.io'}}
