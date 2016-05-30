@@ -1,0 +1,1 @@
+{'clip':{'url':'https://drive.google.com/uc?export=download&id=0B1iyJyrtPA9ab21fNGlVc3BEVG8','pageUrl':'http://lingo.github.io/'}}
